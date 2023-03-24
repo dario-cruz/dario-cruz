@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @dario-cruz
-- 👀 I’m interested in learning all that I can. 
-- 🌱 I’m currently learning Front-End Development.
-- 💞️ I’m looking to collaborate on web application projects. 
-- 📫 How to reach me hit me up on linkedin. 
+# 👋 Hi, I’m Dario
+## 🌱 I’m currently learning Front-End Development. 
+## 🏢 Hit me up on [LinkedIn](https://www.linkedin.com/in/dariocru/)
 
-[![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=dario-cruz)](https://github.com/anuraghazra/github-readme-stats)
+[![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=dario-cruz)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dario-cruz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
